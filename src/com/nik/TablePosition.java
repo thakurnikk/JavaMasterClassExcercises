@@ -1,6 +1,6 @@
 package com.nik;
 
-public class Main {
+public class TablePosition {
 
     public static void main(String[] args) {
 
